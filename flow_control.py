@@ -23,7 +23,7 @@ car=input("Enter your car brand: ")
 if car=="Honda":
     print("Honda city,Honda Amaze,Honda Civic--> Is available")
 elif car=="Maruti":
-    print("Maruti 800, Balino, Ciaz --> Is available")
+    print("Maruti 800, Baleno, Ciaz --> Is available")
 elif car=="Hyundai":
     print("i-20, Verna, i-10--> Is available")
 elif car=="XUV":
