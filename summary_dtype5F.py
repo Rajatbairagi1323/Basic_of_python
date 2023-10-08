@@ -1,5 +1,5 @@
 
-#    ------ SUMMARY OF DATATYPE IN PYTHON 3 ------
+#    ------- SUMMARY OF DATATYPE IN PYTHON 3 -------
 
 
 #  DATA TYPE                  DESCRIPTION                           IS IMMUTABLE                                        EXAMPLE
