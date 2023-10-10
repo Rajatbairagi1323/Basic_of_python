@@ -1,4 +1,4 @@
-# ---SPECIAL OPERATOR---
+# ----SPECIAL OPERATOR----
 
 # Python operator defines the following 2 special operators.
 
